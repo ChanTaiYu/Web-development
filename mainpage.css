@@ -1,0 +1,14 @@
+.logo {
+    width: 24%;
+}
+
+.header-image {
+    width: 100%;
+    border-radius: 25px;
+}
+
+.picture {
+    width: 30%;
+    border-radius: 15px;
+    padding-bottom: 10px;
+}
